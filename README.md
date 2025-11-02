@@ -1,11 +1,11 @@
-### Cibersecurity_Study
-.
-.
-# Desarrollado por:
+#Cibersecurity_Study
+
+
+### Desarrollado por:
 Kimberly Tatiana Rincoin Quiñonez
 Cesar Andres Diaz Delgado
-.
-.
+
+###
 Esta es una falsa pagina web, la cual fue creada con fines educativos y experimentales, deacuerdo con la realizacion del diplomado universitario en ciberseguridad.
 
 
